@@ -12,7 +12,7 @@ def line(array)
   else
   puts "The line is currently empty."
   end
-end 
+end
 
 line(katz_deli)
 
@@ -29,5 +29,3 @@ def now_serving(line)
     line.shift
   end
 end
-
-  
